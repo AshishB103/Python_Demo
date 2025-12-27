@@ -1,0 +1,4 @@
+This is Java tutorial
+This is file I/O
+Using WITH clause
+No need to use close command
